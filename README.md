@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Hanbin</h1>
 - A potential programmer
+<br>
 - 🌱 I’m currently learning **web development**
 
 <p align="left">
