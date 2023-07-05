@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Hanbin</h1>
 - A potential programmer
 <br>
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Next.js**
 
 <p align="left">
 </p>
