@@ -2,6 +2,7 @@
 - A potential programmer
 <br>
 - 🌱 I’m currently learning **Next.js**
+<br>
 - 🧠 Also learning Machine Learning
 
 <p align="left">
