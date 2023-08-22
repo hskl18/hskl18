@@ -1,8 +1,9 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+full+stack+web+dev.)](https://git.io/typing-svg)
 
-[Google](https://www.google.com)
-
+<div align="center">
+    [Come check out my portfolio at hanbintan.com](http://hanbintan.com)
+</div>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
