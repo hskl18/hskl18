@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="http://hanbintan.com">
-    <a>Click here to check out my portfolio!</a>
+    Click here to check out my portfolio!
   </a>
 </p>
 
