@@ -1,3 +1,4 @@
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+full+stack+web+dev.)](https://git.io/typing-svg)
 
@@ -30,4 +31,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 
-<img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=hskl18&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
+<img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=hskl18&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>\
+
+<div />
