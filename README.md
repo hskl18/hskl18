@@ -1,8 +1,10 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+full+stack+web+dev.)](https://git.io/typing-svg)
 
-<p align="center" style="font-size: 18px;"> 
-  <a href="http://hanbintan.com">Come check out my portfolio at hanbintan.com</a>
+<p align="center">
+  <a href="http://hanbintan.com">
+    <img src="https://dabuttonfactory.com/button.png?t=Click+here+to+check+out+my+portfolio&f=Open+Sans-Bold&ts=18&tc=fff&hp=28&vp=18&c=round&bgt=gradient&bgc=acf0f7&ebgc=2164a1&bs=1&bc=569&shs=1&shc=444&sho=s" alt="Portfolio Button">
+  </a>
 </p>
 
 <br>
