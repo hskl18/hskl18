@@ -1,8 +1,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+full+stack+web+dev.)](https://git.io/typing-svg)
 
-<div align="center">[Come check out my portfolio at hanbintan.com](http://hanbintan.com)<div />
-
+<div align="center">[Come check out my portfolio at hanbintan.com](http://hanbintan.com)</div>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
@@ -31,4 +30,4 @@
 
 <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=hskl18&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>\
 
-<div />
+</ div>
