@@ -30,14 +30,4 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 
-<h1 align="center">GitHub Stats</h1>
-<p align="center">
-</br>
-</p>
-
-![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskl18&show_icons=true&theme=transparent)
-
-
-<p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hskl18&layout=compact)
