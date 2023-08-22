@@ -30,4 +30,4 @@
 
 <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=hskl18&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
 
-</ div>
+</div>
