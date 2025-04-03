@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-  <a href="http://hanbintan.com" target="_blank" rel="noopener noreferrer">
-    More about me! (CSE110 Markdown)
+  <a href="https://hskl18.github.io/hskl18/" target="_blank" rel="noopener noreferrer">
+    More about me! (CSE110 Markdown Assignment)
   </a>
 </p>
