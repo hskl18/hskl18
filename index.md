@@ -33,9 +33,9 @@ Hello, I'm **Hanbin Tan** from California, USA. I'm a Cloud Engineer specializin
 
 ## Academic Projects
 
--   **Discord Bot on AWS Lambda:**
+-   **Discord Bot on AWS Lambda**
 
--   **Mathematical Contest in Modeling (2023):**
+-   **Mathematical Contest in Modeling (2023)**
 
 ## Additional Links
 
