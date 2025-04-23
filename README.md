@@ -34,9 +34,3 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 
 </div>
-
-<p align="center">
-  <a href="https://hskl18.github.io/hskl18/" target="_blank" rel="noopener noreferrer">
-    More about me! (CSE110 Markdown Assignment)
-  </a>
-</p>
