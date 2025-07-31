@@ -1,12 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+full+stack+web+dev.;Also+learning+AWS)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="http://hanbintan.com" target="_blank" rel="noopener noreferrer">
-    Click for Portfolio!
-  </a>
-</p>
+### About Me
 
-<br>
+Hello! I'm **Hanbin Tan** (小寒冰), I'm currently pursuing my B.S. in Computer Science at UC San Diego (expected June 2026), and a certified AWS developer and cloud practitioner.
+
+Love travel, new tech, learning new things and GYM everyday.
+
+### What I Do
+
+-   💻 **Software Engineering**: Specializing in scalable microservices, API development, and distributed systems
+-   ☁️ **Cloud Engineering**: Specializing in AWS serverless architectures and scalable solutions
+-   🌐 **Full-Stack Development**: Building modern web applications with cutting-edge technologies
+-   📈 **Marketing**: Specializing in Google SEO, digital marketing, and sales optimization
+-   🎯 **Product Management**: Specializing in persona identification and strategic product development
+
+-   📸 **Photography**: Capturing moments and exploring creative perspectives
+-   🎓 **Mentoring**: Helping students learn programming and problem-solving skills
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
 
@@ -32,5 +43,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-
 </div>
+
+---
+
+<p align="center">
+  <a href="http://hanbintan.com" target="_blank" rel="noopener noreferrer">
+   Learn more about me at my portfolio
+  </a>
+</p>
