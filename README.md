@@ -2,20 +2,23 @@
 
 ### About Me
 
-Hello! I'm **Hanbin Tan** (小寒冰), I'm currently pursuing my B.S. in Computer Science at UC San Diego (expected June 2026), and a certified AWS developer and cloud practitioner.
+Hi, I'm **Hanbin Tan** (寒冰) — a Software Engineer passionate about building scalable cloud solutions.
 
-Love travel, new tech, learning new things and GYM everyday.
+- 🎓 B.S. in Computer Science @ **UC San Diego** (Class of 2026)
+- ☁️ **AWS Certified** Developer Associate & Cloud Practitioner
+- 🔧 Currently working as Core Engineer @ APAC Service Center
 
 ### What I Do
 
--   💻 **Software Engineering**: Specializing in scalable microservices, API development, and distributed systems
--   ☁️ **Cloud Engineering**: Specializing in AWS serverless architectures and scalable solutions
--   🌐 **Full-Stack Development**: Building modern web applications with cutting-edge technologies
--   📈 **Marketing**: Specializing in Google SEO, digital marketing, and sales optimization
--   🎯 **Product Management**: Specializing in persona identification and strategic product development
+**Engineering**
+- 💻 **Backend & Distributed Systems** — Microservices, APIs, serverless architectures
+- ☁️ **Cloud Infrastructure** — AWS Lambda, DynamoDB, S3, ECS, API Gateway
+- 🌐 **Full-Stack Development** — React, Next.js, Node.js, Python
 
--   📸 **Photography**: Capturing moments and exploring creative perspectives
--   🎓 **Mentoring**: Helping students learn programming and problem-solving skills
+**Beyond Code**
+- 📈 **Growth & Marketing** — SEO optimization, digital marketing strategies
+- 🎯 **Product Thinking** — User research, persona development, product strategy
+- 🎓 **Mentoring** — Teaching Python & problem-solving (Microsoft TEALS volunteer)
 
 ---
 
