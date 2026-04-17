@@ -25,7 +25,7 @@ Hi, I'm **Hanbin Tan** (寒冰) — a Software Engineer passionate about buildin
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,sql,react,nextjs,nodejs,tailwind,dotnet,postgres,mysql,mongodb,docker,aws,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,react,nextjs,nodejs,tailwind,dotnet,postgres,mysql,mongodb,docker,aws,git,github,githubactions,linux" />
 </p>
 
 ---
