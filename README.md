@@ -1,37 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ACF0F7&vCenter=true&width=435&height=66&lines=Welcome+to+My+GitHub!;I+am+Hanbin+Tan.;AKA+%E5%AF%92%E5%86%B0!;I+am+now+learning+everything.;)](https://git.io/typing-svg)
+# Hanbin Tan
 
-### About Me
+I am a software engineer working across backend systems, cloud infrastructure, applied AI, and AI infrastructure.
+I work at Pinnacle Education Technology LLC and live in California.
 
-Hi, I'm **Hanbin Tan** (寒冰) — a Software Engineer passionate about building scalable cloud solutions.
+My public work focuses on agent memory, reproducible evaluation, LLM inference tooling, and web backends.
+I build Python services and TypeScript applications, and I use AWS and Docker for cloud and sandboxed workloads.
 
-- 🎓 B.S. in Computer Science @ **UC San Diego** (Class of 2026)
-- ☁️ **AWS Certified** Developer Associate & Cloud Practitioner
-- 🔧 Currently working as Core Engineer @ APAC Service Center
+## Selected work
 
-### What I Do
+- [Boring Agent Memory](https://github.com/hskl18/boring-agent-memory) provides source-grounded BM25 recall over trusted local files, with redaction and deterministic retrieval checks.
+- [LLM Inference Acceleration Playground](https://github.com/hskl18/llm-inference-acceleration-playground) measures latency, throughput, KV cache usage, and serving tradeoffs for OpenAI-compatible endpoints.
+- [Agent Sandbox Eval](https://github.com/hskl18/agent-sandbox-eval) evaluates tool-using agents in reproducible Docker sandboxes with recorded trajectories, grading, replay, and reports.
+- [Agentic Post-Training Lab](https://github.com/hskl18/agentic-post-training-lab) turns agent trajectories into filtered SFT data, reward scores, toy optimization runs, and evaluation artifacts.
+- [CareerOS](https://github.com/hskl18/public-careeros) is a local-first recruiting workflow that uses bounded email evidence, review gates, and optional Gemma analysis.
+- [Mail Guard](https://github.com/hskl18/mail-guard) is an IoT mailbox monitoring prototype built with Next.js, MySQL, AWS S3, device APIs, and event notifications.
 
-**Engineering**
-- 💻 **Backend & Distributed Systems** — Microservices, APIs, serverless architectures
-- ☁️ **Cloud Infrastructure** — AWS Lambda, DynamoDB, S3, ECS, API Gateway
-- 🌐 **Full-Stack Development** — React, Next.js, Node.js, Python
+## Elsewhere
 
-**Beyond Code**
-- 📈 **Growth & Marketing** — SEO optimization, digital marketing strategies
-- 🎯 **Product Thinking** — User research, persona development, product strategy
-- 🎓 **Mentoring** — Teaching Python & problem-solving (Microsoft TEALS volunteer)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,react,nextjs,nodejs,tailwind,dotnet,postgres,mysql,mongodb,docker,aws,git,github,githubactions,linux" />
-</p>
-
----
-
-<p align="center">
-  <a href="http://hanbintan.com" target="_blank" rel="noopener noreferrer">
-   Learn more about me at my portfolio
-  </a>
-</p>
+- [Portfolio](https://hanbintan.com)
+- [GitHub](https://github.com/hskl18)
