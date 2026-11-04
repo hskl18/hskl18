@@ -4,11 +4,9 @@
 
 Hi, I'm **Hanbin Tan** (寒冰) — a Software Engineer building reliable backend, cloud, and applied AI systems, based in California.
 
-- 🎓 B.S. in Computer Science and Engineering @ **UC San Diego** (2026)
-- 🐝 M.S. in Computer Science @ **Georgia Tech (OMSCS)** — incoming Fall 2026
+- 🎓 B.S. in Computer Science @ **UC San Diego** (2026)
+- 🐝 M.S. in Computer Science @ **Georgia Tech** (Aug 2026 - Expected Aug 2028)
 - ☁️ **AWS Certified** Developer Associate & Cloud Practitioner
-
-I work across Python, TypeScript, C++, AWS, Docker, and modern web infrastructure. My public projects emphasize reproducible evaluation, explicit security boundaries, deterministic tests, and CI-backed engineering rather than demo-only claims.
 
 ### What I Do
 
@@ -18,13 +16,16 @@ I work across Python, TypeScript, C++, AWS, Docker, and modern web infrastructur
 - ☁️ **Cloud Infrastructure** — AWS, Docker, sandboxed workloads
 - 🌐 **Full-Stack Development** — React, Next.js, Node.js, Python
 - 🤖 **Applied AI & AI Infrastructure** — Agent memory, LLM inference tooling, reproducible evaluation
+- 🔒 **Security & Reliability** - OAuth 2.0, RBAC, fail-closed access, rate limits, SSRF defenses
+- 🍎 **Native macOS** - Swift, AppKit, Metal
+- 🌱 **Open Source** - Merged PRs in [meta/astryx](https://github.com/meta/astryx/pulls?q=is%3Apr+author%3Ahskl18+is%3Amerged), [exmergo/dex](https://github.com/exmergo/dex/pulls?q=is%3Apr+author%3Ahskl18+is%3Amerged), [Sentient](https://github.com/existence-master/Sentient/pulls?q=is%3Apr+author%3Ahskl18+is%3Amerged), [ordewell](https://github.com/ordewell/ordewell/pulls?q=is%3Apr+author%3Ahskl18+is%3Amerged), [shopnex](https://github.com/shopnex-ai/shopnex/pulls?q=is%3Apr+author%3Ahskl18+is%3Amerged)
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,react,nextjs,nodejs,tailwind,dotnet,pytorch,postgres,mysql,mongodb,docker,kubernetes,aws,vercel,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,swift,bash,react,nextjs,nodejs,fastapi,tailwind,dotnet,pytorch,postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,aws,vercel,cmake,git,github,githubactions,linux&perline=16" />
 </p>
 
 ---
