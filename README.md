@@ -18,36 +18,7 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 - 🤖 **Applied AI & AI Infrastructure** - AI agents, agent memory, LLM speed testing, and repeatable evaluations
 - 🔒 **Security & Reliability** - Safe sign-in with OAuth 2.0, role-based access, rate limits, and blocking requests to private networks
 - 🍎 **Native macOS** - Swift, AppKit, Metal
-- 🌱 **Open Source** - 18 merged pull requests across 11 projects, [listed below](#open-source)
-
-### Projects
-
-- [careeroc skill](https://github.com/hskl18/careeroc-skill) - A job-search skill for your AI agent that checks each job against the official posting and shows where you fit
-- [Computer Use Runtime](https://github.com/hskl18/computer-use-runtime) - Uses AI once to find the steps of a task in an app with no API, then repeats them without more AI calls
-- [Boring Agent Memory](https://github.com/hskl18/boring-agent-memory) - Local memory for AI agents that cites the exact lines it found, on [PyPI](https://pypi.org/project/boring-agent-memory/)
-- [LLM Inference Acceleration Playground](https://github.com/hskl18/llm-inference-acceleration-playground) - Tests how fast AI model servers answer under load, and double-checks its own measurements
-- [Next.js OAuth Security Reference](https://github.com/hskl18/nextjs-oauth-security-reference) - GitHub and Discord sign-in where a matching email never proves you own an account
-- [SQL in C++](https://github.com/hskl18/SQL) - A from-scratch database engine that survives a crash in the middle of a write
-- [cc-lite](https://github.com/hskl18/cc-lite) - A Chinese Chess AI research setup where every game result is replayed and checked
-- [Token Bar](https://github.com/hskl18/token-bar) - A Mac menu bar app for Claude Code and Codex usage limits
-
-### Open Source
-
-| Project | Stars | Merged PRs |
-|---|---|---|
-| [meta/astryx](https://github.com/meta/astryx) | ![stars](https://img.shields.io/github/stars/meta/astryx?style=flat&label=%E2%98%85) | [#9719](https://github.com/meta/astryx/pull/9719) |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | ![stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=flat&label=%E2%98%85) | [#4418](https://github.com/melgarafael/DeskcommCRM/pull/4418) |
-| [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) | ![stars](https://img.shields.io/github/stars/Kentucky-ai/opentakeoff?style=flat&label=%E2%98%85) | [#632](https://github.com/Kentucky-ai/opentakeoff/pull/632) |
-| [existence-master/Sentient](https://github.com/existence-master/Sentient) | ![stars](https://img.shields.io/github/stars/existence-master/Sentient?style=flat&label=%E2%98%85) | [#537](https://github.com/existence-master/Sentient/pull/537), [#548](https://github.com/existence-master/Sentient/pull/548) |
-| [shopnex-ai/shopnex](https://github.com/shopnex-ai/shopnex) | ![stars](https://img.shields.io/github/stars/shopnex-ai/shopnex?style=flat&label=%E2%98%85) | [#74](https://github.com/shopnex-ai/shopnex/pull/74) |
-| [manuc66/node-hp-scan-to](https://github.com/manuc66/node-hp-scan-to) | ![stars](https://img.shields.io/github/stars/manuc66/node-hp-scan-to?style=flat&label=%E2%98%85) | [#1800](https://github.com/manuc66/node-hp-scan-to/pull/1800) |
-| [jannskiee/floe](https://github.com/jannskiee/floe) | ![stars](https://img.shields.io/github/stars/jannskiee/floe?style=flat&label=%E2%98%85) | [#925](https://github.com/jannskiee/floe/pull/925) |
-| [ordewell/ordewell](https://github.com/ordewell/ordewell) | ![stars](https://img.shields.io/github/stars/ordewell/ordewell?style=flat&label=%E2%98%85) | [#140](https://github.com/ordewell/ordewell/pull/140), [#142](https://github.com/ordewell/ordewell/pull/142) |
-| [prapaa-ai/agav](https://github.com/prapaa-ai/agav) | ![stars](https://img.shields.io/github/stars/prapaa-ai/agav?style=flat&label=%E2%98%85) | [#700](https://github.com/prapaa-ai/agav/pull/700), [#703](https://github.com/prapaa-ai/agav/pull/703) |
-| [exmergo/dex](https://github.com/exmergo/dex) | ![stars](https://img.shields.io/github/stars/exmergo/dex?style=flat&label=%E2%98%85) | [#952](https://github.com/exmergo/dex/pull/952), [#1025](https://github.com/exmergo/dex/pull/1025), [#1052](https://github.com/exmergo/dex/pull/1052), [#1264](https://github.com/exmergo/dex/pull/1264), [#1278](https://github.com/exmergo/dex/pull/1278) |
-| [0dust/giraffe](https://github.com/0dust/giraffe) | ![stars](https://img.shields.io/github/stars/0dust/giraffe?style=flat&label=%E2%98%85) | [#136](https://github.com/0dust/giraffe/pull/136) |
-
-In review: [storybookjs/storybook#37092](https://github.com/storybookjs/storybook/pull/37092), [ruvnet/ruflo#4841](https://github.com/ruvnet/ruflo/pull/4841), [grafana/grafana#136956](https://github.com/grafana/grafana/pull/136956), [super-productivity/super-productivity#11434](https://github.com/super-productivity/super-productivity/pull/11434), [renovatebot/renovate#47597](https://github.com/renovatebot/renovate/pull/47597), [Arindam200/awesome-ai-apps#384](https://github.com/Arindam200/awesome-ai-apps/pull/384), [unit8co/darts#3322](https://github.com/unit8co/darts/pull/3322), [shopnex-ai/shopnex#314](https://github.com/shopnex-ai/shopnex/pull/314), [manuc66/node-hp-scan-to#1827](https://github.com/manuc66/node-hp-scan-to/pull/1827), [prapaa-ai/agav#730](https://github.com/prapaa-ai/agav/pull/730), [Altinn/altinn-studio#21606](https://github.com/Altinn/altinn-studio/pull/21606)
+- 🌱 **Open Source** - 19 merged pull requests across 11 projects
 
 ---
 
