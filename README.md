@@ -12,13 +12,24 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 
 **Engineering**
 
-- 💻 **Backend & Distributed Systems** - Microservices, APIs, serverless architectures
-- ☁️ **Cloud Infrastructure** - AWS, Docker, sandboxed workloads
+- 💻 **Backend & Distributed Systems** - APIs, microservices, and serverless apps
+- ☁️ **Cloud Infrastructure** - AWS, Docker, and sandboxes for running untrusted code
 - 🌐 **Full-Stack Development** - React, Next.js, Node.js, Python
-- 🤖 **Applied AI & AI Infrastructure** - Agent memory, LLM inference tooling, reproducible evaluation
-- 🔒 **Security & Reliability** - OAuth 2.0, RBAC, fail-closed access, rate limits, SSRF defenses
+- 🤖 **Applied AI & AI Infrastructure** - AI agents, agent memory, LLM speed testing, and repeatable evaluations
+- 🔒 **Security & Reliability** - Safe sign-in with OAuth 2.0, role-based access, rate limits, and blocking requests to private networks
 - 🍎 **Native macOS** - Swift, AppKit, Metal
 - 🌱 **Open Source** - 18 merged pull requests across 11 projects, [listed below](#open-source)
+
+### Projects
+
+- [careeroc skill](https://github.com/hskl18/careeroc-skill) - A job-search skill for your AI agent that checks each job against the official posting and shows where you fit
+- [Computer Use Runtime](https://github.com/hskl18/computer-use-runtime) - Teaches an AI model a task in an app with no API once, then replays it without calling the model
+- [Boring Agent Memory](https://github.com/hskl18/boring-agent-memory) - Local memory for AI agents that cites the exact lines it found, on [PyPI](https://pypi.org/project/boring-agent-memory/)
+- [LLM Inference Acceleration Playground](https://github.com/hskl18/llm-inference-acceleration-playground) - Load-tests LLM servers and double-checks its own numbers
+- [Next.js OAuth Security Reference](https://github.com/hskl18/nextjs-oauth-security-reference) - GitHub and Discord sign-in where a matching email never proves you own an account
+- [SQL in C++](https://github.com/hskl18/SQL) - A from-scratch database engine that survives a crash in the middle of a write
+- [cc-lite](https://github.com/hskl18/cc-lite) - A Chinese Chess AI research setup where every game result is replayed and checked
+- [Token Bar](https://github.com/hskl18/token-bar) - A Mac menu bar app for Claude Code and Codex usage limits
 
 ### Open Source
 
