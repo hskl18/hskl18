@@ -25,7 +25,7 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,go,rust,cs,swift,bash,pytorch,react,nextjs,tailwind,nodejs,fastapi,dotnet,postgres,mysql,sqlite,redis,mongodb,aws,docker,kubernetes,vercel,linux,githubactions,git,github,cmake&perline=16" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,go,rust,cs,swift,bash,pytorch,react,nextjs,tailwind,nodejs,fastapi,dotnet,postgres,mysql,sqlite,redis,mongodb,aws,docker,kubernetes,vercel,linux,githubactions,git,github,cmake&perline=16" alt="Python, TypeScript, JavaScript, C++, C, Java, Go, Rust, C#, Swift, Bash, PyTorch, React, Next.js, Tailwind CSS, Node.js, FastAPI, .NET, PostgreSQL, MySQL, SQLite, Redis, MongoDB, AWS, Docker, Kubernetes, Vercel, Linux, GitHub Actions, Git, GitHub, CMake" />
 </p>
 
 ---
