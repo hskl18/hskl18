@@ -18,14 +18,14 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 - 🤖 **Applied AI & AI Infrastructure** - AI agents, agent memory, LLM speed testing, and repeatable evaluations
 - 🔒 **Security & Reliability** - Safe sign-in with OAuth 2.0, role-based access, rate limits, and blocking requests to private networks
 - 🍎 **Native macOS** - Swift, AppKit, Metal
-- 🌱 **Open Source** - 19 merged pull requests across 11 projects
+- 🌱 **Open Source** - [![Merged pull requests across open-source projects](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.hanbintan.com%2Fapi%2Fopen-source%2Fbadge)](https://www.hanbintan.com/projects#open-source-heading)
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACF0F7&width=435&lines=My_Favorite+%2F+Languages+%2F+Frameworks+%2F+Tools%3A)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,cs,go,rust,swift,bash,react,nextjs,nodejs,fastapi,tailwind,dotnet,pytorch,postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,aws,vercel,cmake,git,github,githubactions,linux&perline=16" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,java,go,rust,cs,swift,bash,pytorch,react,nextjs,tailwind,nodejs,fastapi,dotnet,postgres,mysql,sqlite,redis,mongodb,aws,docker,kubernetes,vercel,linux,githubactions,git,github,cmake&perline=16" alt="Python, TypeScript, JavaScript, C++, C, Java, Go, Rust, C#, Swift, Bash, PyTorch, React, Next.js, Tailwind CSS, Node.js, FastAPI, .NET, PostgreSQL, MySQL, SQLite, Redis, MongoDB, AWS, Docker, Kubernetes, Vercel, Linux, GitHub Actions, Git, GitHub, CMake" />
 </p>
 
 ---
