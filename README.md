@@ -18,7 +18,7 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 - 🤖 **Applied AI & AI Infrastructure** - AI agents, agent memory, LLM speed testing, and repeatable evaluations
 - 🔒 **Security & Reliability** - Safe sign-in with OAuth 2.0, role-based access, rate limits, and blocking requests to private networks
 - 🍎 **Native macOS** - Swift, AppKit, Metal
-- 🌱 **Open Source** - [<img alt="Merged pull requests across open-source projects" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.hanbintan.com%2Fapi%2Fopen-source%2Fbadge" align="texttop">](https://www.hanbintan.com/projects#open-source-heading)
+- 🌱 **Open Source** - [<img alt="Merged pull requests across open-source projects" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.hanbintan.com%2Fapi%2Fopen-source%2Fbadge" align="absbottom">](https://www.hanbintan.com/projects#open-source-heading)
 
 ---
 
