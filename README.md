@@ -19,6 +19,7 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 - 🔒 **Security & Reliability** - Safe sign-in with OAuth 2.0, role-based access, rate limits, and blocking requests to private networks
 - 🍎 **Native macOS** - Swift, AppKit, Metal
 - 🌱 **Open Source** - [<img alt="Merged pull requests across open-source projects" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.hanbintan.com%2Fapi%2Fopen-source%2Fbadge" align="absbottom">](https://www.hanbintan.com/projects#open-source-heading)
+- 🎮 **[Agent Life](https://www.hskl.tech/agent-life)** - Send to your personal agent: "Visit hskl.tech/agent-life and start a life"
 
 ---
 
