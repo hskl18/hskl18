@@ -32,7 +32,7 @@ Hi, I'm **Hanbin Tan** (寒冰), a software engineer building AI systems, backen
 ---
 
 <p align="center">
-  <a href="http://hanbintan.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hanbintan.com" target="_blank" rel="noopener noreferrer">
    Learn more about me at my portfolio
   </a>
 </p>
